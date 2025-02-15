@@ -43,24 +43,8 @@ Gerenciamento Centralizado: Controle todas as transações em um painel administ
 Relatórios em Tempo Real: Monitore, analise e tome decisões com base em dados financeiros precisos.
 ## Documentação e Suporte
 Nossa documentação completa e detalhada garante que você tenha tudo o que precisa para integrar e utilizar o HorizonWave de forma eficiente. Além disso, oferecemos:
-
 Tutoriais práticos e exemplos de código para facilitar a integração.
 Suporte técnico especializado, disponível para ajudar você a cada etapa do processo.
-## Instalação e Configuração
-Para começar a usar o HorizonWave, siga os passos abaixo:
-
-### Clone o repositório
-git clone https://github.com/Horizon/horizonwave.git
-
-### Acesse o diretório
-cd horizonwave
-
-### Instale as dependências
-npm install
-
-### Configure suas credenciais no arquivo .env
-
-### Inicie o servidor
 
 ## Contribua com o Futuro dos Pagamentos
 O HorizonWave é um projeto open-source, desenvolvido com a comunidade e para a comunidade. Se você quer fazer parte dessa revolução financeira, contribua com:
